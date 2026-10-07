@@ -1,6 +1,6 @@
 # Manas Rawat
 
-**Software Developer | Master of Information Technology, UWA **
+**Software Developer | Master of Information Technology, UWA | From Ideas to Working Products**
 
 I'm a Master of Information Technology graduate from the **University of Western Australia**, with practical experience building backend services, AI workflows, data pipelines and cloud applications.
 
